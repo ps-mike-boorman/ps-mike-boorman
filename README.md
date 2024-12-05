@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike (@ps-mike-boorman)
-- 👀 I’m interested in learning new technology, particularly software engineering/development and cybersecurity.
+- 👀 I’m a system operations guy interested in learning new technology, particularly software engineering/development and cybersecurity.
 - 🌱 I’m currently learning security standards and practices as well as basic coding fundamentals.
 
 <!---
